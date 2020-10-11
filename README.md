@@ -4,7 +4,7 @@ Meu nome é Antônio moro em Belo Horizonte MG, sou formado em Técnico de Infor
 
 <p><img src="https://gpvc.arturio.dev/Antoniocfilho" alt="profile views"></p>
 
-Contate-me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniocfilho.y@gmail.com)](mailto:antoniocfilho.y@gmail.com)
+Contato [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniocfilho.y@gmail.com)](mailto:antoniocfilho.y@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniocfilho)
 
